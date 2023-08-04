@@ -11,11 +11,11 @@ description: A Helm chart for Kubernetes
 # a dependency of application charts to inject those utilities and functions into the rendering
 # pipeline. Library charts do not define any templates and therefore cannot be deployed.
 type: application
-icon: https://camo.githubusercontent.com/81b1b79330b1154fc0743b25327cbfd6282a7bf37e8d0b48278dc57528b2517c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4661737441504926636f6c6f723d303039363838266c6f676f3d46617374415049266c6f676f436f6c6f723d464646464646266c6162656c3d
+icon: https://www.svgrepo.com/download/330413/fastapi.svg
 # This is the chart version. This version number should be incremented each time you make changes
 # to the chart and its templates, including the app version.
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
-version: 0.1.2
+version: 0.1.3
 
 # This is the version number of the application being deployed. This version number should be
 # incremented each time you make changes to the application. Versions are not expected to
